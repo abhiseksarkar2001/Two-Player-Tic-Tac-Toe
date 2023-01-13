@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Two Player Tic-Tac-Toe using Python
 
 board = [" " for x in range(9)]
