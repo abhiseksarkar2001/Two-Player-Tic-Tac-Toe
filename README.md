@@ -7,7 +7,7 @@ This is a simple command-line implementation of the popular game Tic-Tac-Toe wri
 
 2. Open the terminal and navigate to the project directory.
 
-3. Run the game by executing the command python tic-tac-toe.py
+3. Run the game by executing the command python 2-players-tic-tac-toe.py
 
 4. The game board will be displayed on the screen, and it will be empty at the start of the game.
 
